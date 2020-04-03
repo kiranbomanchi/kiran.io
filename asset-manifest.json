@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/kiranbomanchi/todolist.github.io/static/js/main.ab4eb773.chunk.js",
-    "main.js.map": "/kiranbomanchi/todolist.github.io/static/js/main.ab4eb773.chunk.js.map",
-    "runtime-main.js": "/kiranbomanchi/todolist.github.io/static/js/runtime-main.2227eb82.js",
-    "runtime-main.js.map": "/kiranbomanchi/todolist.github.io/static/js/runtime-main.2227eb82.js.map",
-    "static/js/2.e6b38802.chunk.js": "/kiranbomanchi/todolist.github.io/static/js/2.e6b38802.chunk.js",
-    "static/js/2.e6b38802.chunk.js.map": "/kiranbomanchi/todolist.github.io/static/js/2.e6b38802.chunk.js.map",
-    "index.html": "/kiranbomanchi/todolist.github.io/index.html",
-    "precache-manifest.74002485e28ac69ec44ffe0d8c2a1403.js": "/kiranbomanchi/todolist.github.io/precache-manifest.74002485e28ac69ec44ffe0d8c2a1403.js",
-    "service-worker.js": "/kiranbomanchi/todolist.github.io/service-worker.js",
-    "static/js/2.e6b38802.chunk.js.LICENSE.txt": "/kiranbomanchi/todolist.github.io/static/js/2.e6b38802.chunk.js.LICENSE.txt"
+    "main.js": "/kiranbomanchi/kiran.io/static/js/main.ab4eb773.chunk.js",
+    "main.js.map": "/kiranbomanchi/kiran.io/static/js/main.ab4eb773.chunk.js.map",
+    "runtime-main.js": "/kiranbomanchi/kiran.io/static/js/runtime-main.bcaa377f.js",
+    "runtime-main.js.map": "/kiranbomanchi/kiran.io/static/js/runtime-main.bcaa377f.js.map",
+    "static/js/2.e6b38802.chunk.js": "/kiranbomanchi/kiran.io/static/js/2.e6b38802.chunk.js",
+    "static/js/2.e6b38802.chunk.js.map": "/kiranbomanchi/kiran.io/static/js/2.e6b38802.chunk.js.map",
+    "index.html": "/kiranbomanchi/kiran.io/index.html",
+    "precache-manifest.b9ff156916d7752d42dc58816a93f2fd.js": "/kiranbomanchi/kiran.io/precache-manifest.b9ff156916d7752d42dc58816a93f2fd.js",
+    "service-worker.js": "/kiranbomanchi/kiran.io/service-worker.js",
+    "static/js/2.e6b38802.chunk.js.LICENSE.txt": "/kiranbomanchi/kiran.io/static/js/2.e6b38802.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2227eb82.js",
+    "static/js/runtime-main.bcaa377f.js",
     "static/js/2.e6b38802.chunk.js",
     "static/js/main.ab4eb773.chunk.js"
   ]
